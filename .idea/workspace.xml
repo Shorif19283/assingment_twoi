@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94afdf83-9fc1-4624-85d9-90b84dbac47e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problem_01/string_replace/string_replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_01/string_replace/string_replace_runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_02/Using_trim_and_replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_02/Using_trim_and_replace_Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_03/AreaTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_03/AreaTesterRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_04/PerimeterTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_04/PerimeterTesterRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem_05/Construct_Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem_01/string_replace/jave.java" beforeDir="false" />
-    </list>
+    <list default="true" id="94afdf83-9fc1-4624-85d9-90b84dbac47e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +52,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689811876600</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="replace">
+      <option name="closed" value="true" />
+      <created>1689814086032</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689814086032</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
