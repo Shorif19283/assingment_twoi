@@ -1,6 +1,8 @@
 package problem_01.string_replace;
 
-public class jave {
+public class string_replace {
+
+
     private String stateName;
     public string_replace(){
         stateName="Mississippi";
